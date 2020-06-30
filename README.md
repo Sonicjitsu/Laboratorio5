@@ -178,7 +178,7 @@ https://trello.com/b/0MUzNNnz/lab-2
 
 
 ## 14.- ANEXOS
-https://github.com/BriandaLema/Laboratorio2/blob/master/ANEXOS/ANEXOS.pdf
+https://github.com/BriandaLema/Laboratorio4/blob/master/Anexos/ANEXOS4.pdf
 
 
 

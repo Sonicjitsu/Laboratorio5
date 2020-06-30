@@ -96,7 +96,7 @@ Para complementar la correcta cuantificacion de valores calculados y valores med
 MEDICIÓN DE VOLTAJE APLICANDO SUPERPOSICIÓN
 
 | VOLTAJE TOTAL (VA) | VOLTAJE (VA) CUANDO V2=0 | VOLTAJE (VA) CUANDO V1=0  |
-|----------|------|-------|
+|----------|------|-------|------|---------|----------|
 | CALCULADO | MEDIDO  | CALCULADO | MEDIDO  |CALCULADO | MEDIDO  |
 
 

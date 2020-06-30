@@ -133,19 +133,27 @@ MEDICIÓN DE VOLTAJE APLICANDO SUPERPOSICIÓN
 
 - **CÁLCULO DEL ERROR DE LA CORRIENTE**
 
-∑(Corriente calculado)= (0.0115 + 0.00285 + 0.000488) A
+Corriente total calculado= 0.0255 A
 
-∑(Corriente calculado)=  0.01484 A
-
-∑(Corriente medido)= (0.01145 + 0.00285 + 0.00049) A
-
-∑(Corriente medido)= 0.01479 A 
+Corriente total medido= 0.0255 A
 
 %error=((Valor teórico-Valor medido)/Valor teórico)* 100
 
-%error=((0.01484 A - 0.01479 A)/ 0.01484 A)* 100
+%error=((0.0255 A - 0.0255 A)/ 0.0255 A)* 100
 
-%error= 0.34 % 
+%error= 0 % 
+
+- **CÁLCULO DEL ERROR DEL VOLTAJE**
+
+Voltaje total calculado= 0.952 V
+
+Voltaje medido= 0.94 V
+
+%error=((Valor teórico-Valor medido)/Valor teórico)* 100
+
+%error=((0.952 V - 0.94 V)/ 0.952 )* 100
+
+%error= 0.0126 % 
 
 Como podemos observar los valores de cada corriente medida en las tres mallas con analisís de mallas son muy parecidos a los valores cálculados con el Tinkercad, ya que el porcentaje de error de la corriente es menor al 1%.
 

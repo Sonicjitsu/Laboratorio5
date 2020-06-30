@@ -29,11 +29,16 @@ La superposición es una técnica útil para analizar circuitos. Usualmente se u
  La aplicación del principio de superposición en el análisis de un circuito eléctrico comprende los siguientes pasos:
 
 1.-Apagar todas las fuentes independientes excepto una. Calcular la salida (tensión o corriente) debido a la única fuente activa.
+
 2.-Repetir el paso anterior para cada una de las fuentes independientes presentes en el circuito.
+
 3.-La contribución total viene dada por la suma algebraica de las contribuciones de cada una de las fuentes independientes.
 
+
 **IMPORTANTE**
+
  *Para suprimir una fuente de voltaje hay que reemplazarla con un cortocircuito.
+ 
  *Para suprimir una fuente de corriente hay que reemplazarla con un circuito abierto.
 
 

@@ -95,37 +95,37 @@ Para complementar la correcta cuantificacion de valores calculados y valores med
 
 MEDICIÓN DE VOLTAJE APLICANDO SUPERPOSICIÓN
 
-* VOLTAJE TOTAL (VA) 
+* **VOLTAJE TOTAL (VA) **
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
 | V | V |
 
-* VOLTAJE (VA) CUANDO V2=0
+* **VOLTAJE (VA) CUANDO V2=0**
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
 | V | V |
 
-* VOLTAJE (VA) CUANDO V1=0
+* **VOLTAJE (VA) CUANDO V1=0**
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
 | V | V |
 
-* CORRIENTE TOTAL (Ix)
+* **CORRIENTE TOTAL (Ix)**
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
 | A | A |
 
-* CORRIENTE (Ix) CUANDO V2=0
+* **CORRIENTE (Ix) CUANDO V2=0**
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
 | A | A |
 
-* CORRIENTE (Ix) CUANDO V1=0
+* **CORRIENTE (Ix) CUANDO V1=0**
 
 | CALCULADO | MEDIDO  | 
 |----------|------|

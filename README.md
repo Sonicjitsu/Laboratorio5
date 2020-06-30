@@ -37,9 +37,9 @@ La superposición es una técnica útil para analizar circuitos. Usualmente se u
 
 **IMPORTANTE**
 
- *Para suprimir una fuente de voltaje hay que reemplazarla con un cortocircuito.
+ * Para suprimir una fuente de voltaje hay que reemplazarla con un cortocircuito.
  
- *Para suprimir una fuente de corriente hay que reemplazarla con un circuito abierto.
+ * Para suprimir una fuente de corriente hay que reemplazarla con un circuito abierto.
 
 
 ## 4. DIAGRAMAS

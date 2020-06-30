@@ -5,7 +5,7 @@ TEMA: TEOREMA DE SUPERPOSICIÓN
 
 **1,1.- GENERAL** 
 
-* Comprobar experimentalmente el Análisis de Mallas. 
+* Comprobar experimentalmente el Teorema de Superposición.
 
 **1,2.-ESPECÍFICOS**
 
@@ -24,33 +24,10 @@ Este proyecto consistió en la implementación de un circuito electrónico virtu
 ## 3. MARCO TEÓRICO 
 
 
-**MALLA EN UN CIRCUITO ELÉCTRICO**
-
-Una malla es cualquier trayectoria cerrada de un circuito eléctrico, formado por elementos del mismo circuito.
-
-![](https://github.com/BriandaLema/Laboratorio2/blob/master/img/Mallas%20en%20un%20circuito.jpg)
-
-En la gráfica existen 4 mallas ,es decir 4 caminos cerrados dentro del circuito, donde intervienen resistencias y fuentes de voltaje.
-
-**MÉTODO DE LA CORRIENTE DE MALLA**
- 
-El método de la corriente de malla se basa en la ley de voltaje de Kirchhoff , y según esta ley establece que la sumatoria de los voltajes en una malla es igual a cero.Es decir: si multiplicamos cada resistencia de en la malla por las corrientes de malla, al sumar los voltajes el total debe ser cero. Si no existe una fuente de corriente o voltaje en una malla , asumimos que la corriente fluye en sentido horario.
-
-En el siguiente diagrama podemos representar las corrientes de la siguiente manera:
-
-![](https://github.com/BriandaLema/Laboratorio2/blob/master/img/Sentido%20de%20las%20corrientes.jpg)
-
-Observemos que en la malla 1 la corriente va en sentido horario ya que sale del positivo de la fuente, en las mallas 2 y 3 no existe fuente, así que se asume que va en sentido horario y en la malla 4 la corriente va en sentido anti horario ya que sale  del lado positivo de la fuente de voltaje.
-
-Luego de establecer el sentido de las corrientes procedemos a colocar signos de polaridad a las resistencias por cada malla, para esto debemos tomar en cuenta que para todas las resistencias la terminal donde entra la corriente llevará un signo positivo y donde sale la corriente llevará un signo negativo, esto se realiza para facilitar la resolución del problema. Y quedaría de la siguiente manera: 
-
-![](https://github.com/BriandaLema/Laboratorio2/blob/master/img/Polaridad%20de%20las%20resistencias.jpg)
-
-Ya una vez colocado los signos procedemos  a establecer las ecuaciones para cada malla. Al final obtendremos un sistema de ecuaciones, que lo podremos resolver mediante matrices, así obteniendo cada uno de los valores de las corrientes requeridas.
 
 ## 4. DIAGRAMAS
 
-
+Se simula un circuito lineal, es un circuito mixto con cuatro resistencias en paralelo y corriente conectadas a dos fuentes de voltaje de corriente directa.
 
 ![](https://github.com/BriandaLema/Laboratorio4/blob/master/img/Diagrama.png)
 

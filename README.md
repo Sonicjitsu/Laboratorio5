@@ -23,9 +23,11 @@ Este proyecto consistió en la implementación de un circuito mixto lineal, en u
 
 ## 3. MARCO TEÓRICO 
 **TEOREMA DE SUPERPOSICIÓN**
+
 La superposición es una técnica útil para analizar circuitos. Usualmente se utiliza la superposición cuando posee un circuito con entradas múltiples o múltiples fuentes de poder. Permite calcular la corriente o el voltaje en cualquier rama de un circuito estimulado por varias fuentes de energía, ya sean de corriente o de voltaje, activando una sola fuente a la vez.
 
  **PASOS**
+ 
  La aplicación del principio de superposición en el análisis de un circuito eléctrico comprende los siguientes pasos:
 
 1.-Apagar todas las fuentes independientes excepto una. Calcular la salida (tensión o corriente) debido a la única fuente activa.

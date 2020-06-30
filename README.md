@@ -158,7 +158,7 @@ https://trello.com/b/CRvRVdmQ/cronograma
 
 * Antony, G. G. (26 de Julio de 2013). PANAMAHITEK. Obtenido de http://panamahitek.com/ley-de-los-voltajes-de-kirchhoff-metodo-de-mallas/#:~:text=En%20un%20circuito%20el%C3%A9ctrico%2C%20una,formadas%20por%204%20caminos%20cerrados.&text=Si%20multiplicamos%20las%20corrientes%20de,el%20total%20debe%20ser%20cero.
 
-* Willi, M. (s.f.). KHAN ACADEMY. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
+* Willi, M. (s.f.). KHAN ACADEMY. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
 
 
 

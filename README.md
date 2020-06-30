@@ -65,7 +65,8 @@ Se simula un circuito lineal, es un circuito mixto con cuatro resistencias en pa
 ## 6. MAPA DE VARIABLES 
 
 Variables eléctricas: 
-*Voltaje
+
+* Voltaje
 * Corriente 
 * Resistores
 

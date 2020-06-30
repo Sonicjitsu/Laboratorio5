@@ -95,43 +95,43 @@ Para complementar la correcta cuantificacion de valores calculados y valores med
 
 MEDICIÓN DE VOLTAJE APLICANDO SUPERPOSICIÓN
 
-* **VOLTAJE TOTAL (VA) **
+* **VOLTAJE TOTAL (VA)**
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
-| V | V |
+| 0.952 V | 0.94 V |
 
 * **VOLTAJE (VA) CUANDO V2=0**
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
-| V | V |
+| 7.48 V | 7.47 V |
 
 * **VOLTAJE (VA) CUANDO V1=0**
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
-| V | V |
+| -6.53 V | -6.53 V |
 
 * **CORRIENTE TOTAL (Ix)**
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
-| A | A |
+| 0.0255 A | 0.0255 A |
 
 * **CORRIENTE (Ix) CUANDO V2=0**
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
-| A | A |
+|  ∞  | 0 A |
 
 * **CORRIENTE (Ix) CUANDO V1=0**
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
-| A | A |
+| 0.0255 A | -0.0255 A |
 
-- CÁLCULO DEL ERROR DE LA CORRIENTE
+- **CÁLCULO DEL ERROR DE LA CORRIENTE**
 
 ∑(Corriente calculado)= (0.0115 + 0.00285 + 0.000488) A
 

@@ -52,7 +52,7 @@ Ya una vez colocado los signos procedemos  a establecer las ecuaciones para cada
 
 Para este laboratorio se utilizó un circuito mixto en donde podemos diferenciar que se encuentra constituido por 3 mallas.
 
-![](https://github.com/BriandaLema/Laboratorio2/blob/master/img/Circuito%20lab%202%20(2).png)
+![](https://github.com/BriandaLema/Laboratorio4/blob/master/img/Diagrama.png)
 
 ## 5. LISTA DE COMPONENTES
 

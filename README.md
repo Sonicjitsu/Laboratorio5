@@ -9,20 +9,32 @@ TEMA: TEOREMA DE SUPERPOSICIÓN
 
 **1,2.-ESPECÍFICOS**
 
-* Examinar el funcionamiento de un circuito mixto con 2 fuentes de voltaje.
+* Examinar el funcionamiento de un circuito lineal con fuentes variables.
 
 * Comparar los valores medidos con los valores calculados en el circuito y establecer el porcentaje de error resultante.
 
-* Aplicar el uso de las leyes de voltaje de Kirchhoff  para el análisis de mallas.
+* Reconocer circuitos que se annalicen mediante el Teorema de Superposición.
 
 
 ## 2. PLANTEAMIENTO DEL PROBLEMA
 
-Este proyecto consistió en la implementación de un circuito electrónico virtual en un programa online denominado Tinkercad con la finalidad de experimentar una simulación del circuito donde es posible aplicar el Análisis de Malla. Se procede a realizar ensamblaje   del circuito con resistencias en serie y paralelo de diferentes valores para que estas formen mallas con el fin de poder realizar su análisis midiendo las corrientes de cada malla del circuito.
+Este proyecto consistió en la implementación de un circuito mixto lineal, en un programa online denominado Tinkercad con la finalidad de experimentarel análisis mediante el Teorema de Superposición. Se crea el circuito utilizando resistencias en serie y paralelo conetadas a fuentes variables, la cuál es la característica principal para poder utilizar el Teorema de superposición como un método de solución factible.
 
 
 ## 3. MARCO TEÓRICO 
+**TEOREMA DE SUPERPOSICIÓN**
+La superposición es una técnica útil para analizar circuitos. Usualmente se utiliza la superposición cuando posee un circuito con entradas múltiples o múltiples fuentes de poder. Permite calcular la corriente o el voltaje en cualquier rama de un circuito estimulado por varias fuentes de energía, ya sean de corriente o de voltaje, activando una sola fuente a la vez.
 
+ **PASOS**
+ La aplicación del principio de superposición en el análisis de un circuito eléctrico comprende los siguientes pasos:
+
+1.-Apagar todas las fuentes independientes excepto una. Calcular la salida (tensión o corriente) debido a la única fuente activa.
+2.-Repetir el paso anterior para cada una de las fuentes independientes presentes en el circuito.
+3.-La contribución total viene dada por la suma algebraica de las contribuciones de cada una de las fuentes independientes.
+
+**IMPORTANTE**
+ *Para suprimir una fuente de voltaje hay que reemplazarla con un cortocircuito.
+ *Para suprimir una fuente de corriente hay que reemplazarla con un circuito abierto.
 
 
 ## 4. DIAGRAMAS
@@ -46,8 +58,10 @@ Se simula un circuito lineal, es un circuito mixto con cuatro resistencias en pa
 ## 6. MAPA DE VARIABLES 
 
 Variables eléctricas: 
+*Voltaje
 * Corriente 
 * Resistores
+
 
 ## 7. EXPLICACIÓN CÓDIGO DE FUENTE
 
@@ -64,7 +78,7 @@ Fundamentalmente los prerrequisitos que requiere este laboratorio sería: un dis
 
 ## 9.APORTACIONES
 
-Para complementar la correcta cuantificacion de valores calculados y valores medidos se utilizo una aplicación más denominada Multisim, que es un programa que se debe instalar en un sistema inteligente para poder hacer una grafica y simulación de un circuito.
+Para complementar la correcta cuantificacion de valores calculados y valores medidos se baso en videos de la plataforma online YouTube, y se implemento el circuito en el simulador multisim para confirmar los valores.
 
 ## 10. CONCLUSIONES
 
@@ -156,9 +170,11 @@ https://trello.com/b/CRvRVdmQ/cronograma
 
 ## 13. BIBLIOGRAFÍA
 
-* Antony, G. G. (26 de Julio de 2013). PANAMAHITEK. Obtenido de http://panamahitek.com/ley-de-los-voltajes-de-kirchhoff-metodo-de-mallas/#:~:text=En%20un%20circuito%20el%C3%A9ctrico%2C%20una,formadas%20por%204%20caminos%20cerrados.&text=Si%20multiplicamos%20las%20corrientes%20de,el%20total%20debe%20ser%20cero.
+* Carakenio73. (2019, Noviembre 8). Recuperado de: https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
 
 * Willi, M. (s.f.). KHAN ACADEMY. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
+
+*Teorema de superposición para solución de circuitos eléctricos. (2012, Julio 18). Recuperado de: https://www.ecured.cu/Teorema_de_superposici%C3%B3n_para_soluci%C3%B3n_de_circuitos_el%C3%A9ctricos
 
 
 

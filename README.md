@@ -60,11 +60,10 @@ Para este laboratorio se utilizó un circuito mixto en donde podemos diferenciar
 | ------- | -------------|
 | 2       | Fuente de Voltaje C.D.  |
 | 1       | Multímetro digital  |
-| 1       | Resistor de 820 Ω   |
-| 1       | Resistor de 390 Ω   |
-| 1       | Resistor de 1 kΩ  |
-| 1       | Resistor de 1.2 kΩ|
-| 1       | Resistor de 2.2 kΩ|
+| 1       | Resistor de 1 kΩ   |
+| 1       | Resistor de 2.2 kΩ   |
+| 1       | Resistor de 820 Ω  |
+| 1       | Resistor de 470 Ω|
 | 1       | Protoboard                    |
 
 ## 6. MAPA DE VARIABLES 
@@ -94,13 +93,12 @@ Para complementar la correcta cuantificacion de valores calculados y valores med
 
 **ANÁLISIS DE RESULTADOS Y CÁLCULO DEL ERROR**
 
-ANÁLISIS DE MALLAS 
+MEDICIÓN DE VOLTAJE APLICANDO SUPERPOSICIÓN
 
-| CORRIENTE | MEDIDO | CALCULADO  |
+| VOLTAJE TOTAL (VA) | VOLTAJE (VA) CUANDO V2=0 | VOLTAJE (VA) CUANDO V1=0  |
 |----------|------|-------|
-| I1 (A) | 0.01145 A | 0.0115 A|
-| I2 (A) | 0.00285 A| 0.00285 A|
-| I3 (A) | 0.00049 A | 0.000488 A |
+| CALCULADO | MEDIDO  | CALCULADO | MEDIDO  |CALCULADO | MEDIDO  |
+
 
 
 

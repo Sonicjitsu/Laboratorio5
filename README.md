@@ -50,7 +50,7 @@ Ya una vez colocado los signos procedemos  a establecer las ecuaciones para cada
 
 ## 4. DIAGRAMAS
 
-Para este laboratorio se utilizó un circuito mixto en donde podemos diferenciar que se encuentra constituido por 3 mallas.
+
 
 ![](https://github.com/BriandaLema/Laboratorio4/blob/master/img/Diagrama.png)
 
@@ -173,9 +173,9 @@ Para terminar podemos sugerir utilizar de manera adecuada en serie el uso del mu
 
 ## 12. CRONOGRAMA
 
-![](https://github.com/BriandaLema/Laboratorio2/blob/master/img/Cronograma.png)
+![](https://github.com/BriandaLema/Laboratorio4/blob/master/img/Cronograma4.png)
 
-https://trello.com/b/0MUzNNnz/lab-2
+https://trello.com/b/CRvRVdmQ/cronograma
 
 ## 13. BIBLIOGRAFÍA
 

@@ -154,7 +154,7 @@ Voltaje medido= 0.94 V
 
 %error= 0.0126 % 
 
-Como podemos observar los valores calculados (Ix y Va) son casi identicos a mis valores simulados por mediante del Tinkercad, Se esto debido a que mi porcentaje de error es casi nulo la cual establece que los datos no se differencian en mucho.
+Como podemos observar los valores calculados (Ix y Va) son casi identicos a mis valores simulados mediante del Tinkercad, Se esto debido a que mi porcentaje de error es casi nulo la cual establece que los datos no se differencian en mucho.
 
 Habiendo simulado y creado el circuito, Podemos observar que aunque hemos calculado los datos de una manera distinta, hemos podido comprobar que este metodo es valida y muy efectiva para los calculos buscados.
 

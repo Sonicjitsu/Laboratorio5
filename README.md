@@ -1,11 +1,11 @@
 # LABORATORIO # 04
 
-TEMA: TEOREMA DE SUPERPOSICIÓN
+TEMA: TEOREMA DE THÉVENIN
 ## 1. OBJETIVOS
 
 **1,1.- GENERAL** 
 
-* Comprobar experimentalmente el Teorema de Superposición.
+* Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
 
 **1,2.-ESPECÍFICOS**
 
@@ -48,7 +48,7 @@ La superposición es una técnica útil para analizar circuitos. Usualmente se u
 
 Se simula un circuito lineal, es un circuito mixto con cuatro resistencias en paralelo y corriente conectadas a dos fuentes de voltaje de corriente directa.
 
-![](https://github.com/BriandaLema/Laboratorio4/blob/master/img/Diagrama.png)
+![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/Diagrama5.png)
 
 ## 5. LISTA DE COMPONENTES
 

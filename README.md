@@ -27,6 +27,7 @@ Este proyecto consistió en la implementación de un circuito mixto lineal, en u
 
 El teorema de Thévenin determina que un circuito eléctrico con dos fuentes de alimentación es equivalente a un circuito formado por una fuente de tensión Vth (Voltaje de Thévenin) en serie con una resistencia Rth (Resistencia de Thévenin).
   
+![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/Thevenin.png)
 
 Para aplicar este método primero tenemos que tomar en cuenta que:
 * Las fuentes de voltaje se cierran.
@@ -54,11 +55,12 @@ Se simula un circuito lineal, es un circuito mixto con cuatro resistencias en pa
 | CANTIDAD| ELEMENTO |
 | ------- | -------------|
 | 2       | Fuente de Voltaje C.D.  |
-| 1       | Multímetro digital  |
-| 1       | Resistor de 1 kΩ   |
-| 1       | Resistor de 2.2 kΩ   |
-| 1       | Resistor de 820 Ω  |
-| 1       | Resistor de 470 Ω|
+| 2       | Multímetros digital  |
+| 1       | Resistor de 560 kΩ   |
+| 1       | Resistor de 4.7 kΩ   |
+| 1       | Resistor de 330 Ω  |
+| 1       | Resistor de 100 Ω|
+| 1       | Resistor de 1 kΩ|
 | 1       | Protoboard                    |
 
 ## 6. MAPA DE VARIABLES 

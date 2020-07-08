@@ -181,7 +181,7 @@ Voltaje medido= 2.67 V
 
 %error=((2.89 V - 2.67 V)/ 2.89 )* 100
 
-%error= 0.076 % 
+%error= 7.61 % 
 
 - **CÁLCULO DEL ERROR DE LA CORRIENTE EN R5 EN EL CIRCUITO ORIGINAL**
 
@@ -193,7 +193,7 @@ Corriente medido= 2.67 mA
 
 %error=((2.89 V - 2.67 V)/ 2.89 )* 100
 
-%error= 0.076 % 
+%error= 7.61 % 
 
 - **CÁLCULO DEL ERROR DEL VOLTAJE EN R5 EN EL CIRCUITO EQUIVALENTE DE THÉVENIN**
 

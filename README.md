@@ -9,11 +9,11 @@ TEMA: TEOREMA DE THÉVENIN
 
 **1,2.-ESPECÍFICOS**
 
-* Examinar el funcionamiento de un circuito lineal con fuentes variables.
+* Analizar un circuito de corriente directa mediante la aplicación del Teorema de Thevenin .
 
-* Comparar los valores medidos con los valores calculados en el circuito y establecer el porcentaje de error resultante.
+* Verificar la manera de medir la resistencia y voltaje Thevenin de un circuito.
 
-* Reconocer circuitos que se annalicen mediante el Teorema de Superposición.
+* Reducir y solucionar un circuito mediante el Teorema de Thévenin.
 
 
 ## 2. PLANTEAMIENTO DEL PROBLEMA
@@ -219,11 +219,13 @@ Corriente medido= 2.79 mA
 
 %error= 0.72 % 
 
-Como podemos observar los valores calculados (Ix y Va) son casi identicos a mis valores simulados mediante del Tinkercad, Se esto debido a que mi porcentaje de error es casi nulo la cual establece que los datos no se differencian en mucho.
+Por medio de este laboratorio hemos comprobado de una forma tanto teórica como práctica la funcionalidad del teorema de Thévenin el cual es de grna utilidad ya que nos ayuda a reducir un circuito complejo en uno mucho más sencillo para medir corriente o voltaje en algún elemento del circuitos. 
 
-Habiendo simulado y creado el circuito, Podemos observar que aunque hemos calculado los datos de una manera distinta, hemos podido comprobar que este metodo es valida y muy efectiva para los calculos buscados.
+También corroboramos que la resistencia e intensidad calculadas por Thevenin son muy similares a las calculadas mediante las leyes de Kirchhoff.
 
-Con esto se puede concluir, que mis datos finales muestran una pequeña diferencia entre los valores medidos y calculados, y se podría dar esto de de la differencia por dos razones : al momento de calcular con el multímetro los valores, intervienen las tolerancias de las resistencias, y esto podría afectar a los valores obtenidos; mientras que en los valores medidos tal vez intervenga el hecho que no habiamos usado todos los decimales presentados en la calculadora, la cual aunque poco afecta los valores obtenidos. 
+Habiendo simulado y creado el circuito, podemos meditar que aunque hemos calculado los datos de una manera distinta, hemos podido comprobar que este método es valido y muy efectiva para los calculos buscados.
+
+Con esto se puede concluir, que los datos finales muestran una pequeña diferencia entre los valores medidos y calculados, y se podría dar esto de de la differencia por dos razones : al momento de calcular con el multímetro los valores, intervienen las tolerancias de las resistencias, y esto podría afectar a los valores obtenidos; mientras que en los valores medidos tal vez intervenga el hecho que no habiamos usado todos los decimales presentados en la calculadora, la cual aunque poco afecta los valores obtenidos. 
 
 
 

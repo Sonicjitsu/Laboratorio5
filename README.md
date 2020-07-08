@@ -23,9 +23,9 @@ Este proyecto consistió en la implementación de un circuito mixto lineal, en u
 
 ## 3. MARCO TEÓRICO 
 
-**TEOREMA DE THEVENIN**
+**TEOREMA DE THÉVENIN**
 
-El teorema de Thevenin determina que un circuito eléctrico con dos fuentes de alimentación es equivalente a un circuito formado por una fuente de tensión Vth (Voltaje de Thevenin) en serie con una resistencia Rth (Resistencia de Thevenin).
+El teorema de Thévenin determina que un circuito eléctrico con dos fuentes de alimentación es equivalente a un circuito formado por una fuente de tensión Vth (Voltaje de Thévenin) en serie con una resistencia Rth (Resistencia de Thévenin).
   
 
 Para aplicar este método primero tenemos que tomar en cuenta que:
@@ -35,11 +35,11 @@ Para aplicar este método primero tenemos que tomar en cuenta que:
 
 Para aplicar el teorema correctamente, se deben realizar estos pasos:
 
-1.	Al eliminar las fuentes de tensión o fuentes de alimentación del circuito original, será posible encontrar la resistencia de Thevenin. Se procede a calcular el valor de la resistencia total existente entre los punto A y B donde se encuentre conectada la resistencia de carga.
+1.	Al eliminar las fuentes de tensión o fuentes de alimentación del circuito original, será posible encontrar la resistencia de Thévenin. Se procede a calcular el valor de la resistencia total existente entre los punto A y B donde se encuentre conectada la resistencia de carga.
 
-2.	Para el caso de hallar la tensión de Thevenin, se elimina la resistencia de carga, y se calcula el voltaje de los puntos de conexión abiertos donde ésta se encontraba.
+2.	Para el caso de hallar la tensión de Thévenin, se elimina la resistencia de carga, y se calcula el voltaje de los puntos de conexión abiertos donde ésta se encontraba.
 
-3.	Construimos el circuito equivalente utilizando la tensión de Thevenin y la resistencia de Thevenin en serie y procedemos a conectar la resistencia de carga entre los puntos de conexión abiertos.
+3.	Construimos el circuito equivalente utilizando la tensión de Thévenin y la resistencia de Thévenin en serie y procedemos a conectar la resistencia de carga entre los puntos de conexión abiertos.
 
 4.	Utilizando las reglas de circuitos en serie, se analiza la tensión y corriente de la resistencia de carga.
 

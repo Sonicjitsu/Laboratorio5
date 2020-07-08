@@ -156,7 +156,7 @@ Voltaje medido= 3.63 V
 
 %error=((3.47 V - 3.63 V)/ 3.47 )* 100
 
-%error= 0.046 % 
+%error= 4.61 % 
 
 
 - **CÁLCULO DEL ERROR DE LA RESISTENCIA DE THÉVENIN**

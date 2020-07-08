@@ -57,7 +57,7 @@ Comprobación del Teorema de Thévenin
 
 
 
-![](
+
 
 ## 5. LISTA DE COMPONENTES
 

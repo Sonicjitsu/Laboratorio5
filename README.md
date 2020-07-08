@@ -50,6 +50,10 @@ Se simula un circuito lineal, es un circuito mixto con cuatro resistencias en pa
 
 ![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/Diagrama5.png)
 
+Comprobación del Teorema de Thévenin
+
+![](
+
 ## 5. LISTA DE COMPONENTES
 
 | CANTIDAD| ELEMENTO |

@@ -231,11 +231,11 @@ Con esto se puede concluir, que los datos finales muestran una pequeña diferenc
 
 ## 11. RECOMENDACIONES
 
-Recomendamos que se debe asegurarse de tomar cálculos de una manera clara y ordenada,para asi no equivocarse en el hecho remplazar y tener como consecuencia un % de error excesivo. En este caso especificamente, se debe en tener en cuenta de desconectar las fuentes de poder paso segundo y tercer caso respectivamente.
+Recomendamos que se debe asegurarse de tomar cálculos de una manera clara y ordenada,para asi no equivocarse en el hecho remplazar y tener como consecuencia un % de error excesivo. En este caso especificamente, se debe en tener en cuenta de desconectar las fuentes de poder para obtener la resitencia total del sistema y aseguarar de conectar los espacios que se dejo por las fuentes.
 
 Se debe tener en mente, de si se equivoca al traducir el circuito teorico al simulador esto podria causarle problemas en sus calculos, entonces recomendable siempre calcular tus datos manualmente y de ahi proceder a ser el circuito simulado.
 
-Para terminar, sugerimos acordarse para calcular el voltaje de una region se le conecta al circuito directamente y para calcular intensidad se debe tratar al multimetro como un elemento del circuito y conectarle en serie.
+Para terminar, sugerimos acordarse para obtener la resitencia equivalente debemos tener en cuenta de que este es especial y no requiere el calculo adiccional con la resisitencia 5 entonces este se le debe quitar y no olvidar de hacerlo.
 
 
 ## 12. CRONOGRAMA

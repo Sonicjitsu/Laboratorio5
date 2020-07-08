@@ -22,27 +22,26 @@ Este proyecto consistió en la implementación de un circuito mixto lineal, en u
 
 
 ## 3. MARCO TEÓRICO 
-**TEOREMA DE SUPERPOSICIÓN**
 
-La superposición es una técnica útil para analizar circuitos. Usualmente se utiliza la superposición cuando posee un circuito con entradas múltiples o múltiples fuentes de poder. Permite calcular la corriente o el voltaje en cualquier rama de un circuito estimulado por varias fuentes de energía, ya sean de corriente o de voltaje, activando una sola fuente a la vez.
+**TEOREMA DE THEVENIN**
 
- **PASOS**
- 
- La aplicación del principio de superposición en el análisis de un circuito eléctrico comprende los siguientes pasos:
+El teorema de Thevenin determina que un circuito eléctrico con dos fuentes de alimentación es equivalente a un circuito formado por una fuente de tensión Vth (Voltaje de Thevenin) en serie con una resistencia Rth (Resistencia de Thevenin).
+  
 
-1.-Apagar todas las fuentes independientes excepto una. Calcular la salida (tensión o corriente) debido a la única fuente activa.
+Para aplicar este método primero tenemos que tomar en cuenta que:
+* Las fuentes de voltaje se cierran.
+* Las fuentes de corriente se abren.
+* La resistencia a la cual vamos a calcular su voltaje y corriente, se abre.
 
-2.-Repetir el paso anterior para cada una de las fuentes independientes presentes en el circuito.
+Para aplicar el teorema correctamente, se deben realizar estos pasos:
 
-3.-La contribución total viene dada por la suma algebraica de las contribuciones de cada una de las fuentes independientes.
+1.	Al eliminar las fuentes de tensión o fuentes de alimentación del circuito original, será posible encontrar la resistencia de Thevenin. Se procede a calcular el valor de la resistencia total existente entre los punto A y B donde se encuentre conectada la resistencia de carga.
 
+2.	Para el caso de hallar la tensión de Thevenin, se elimina la resistencia de carga, y se calcula el voltaje de los puntos de conexión abiertos donde ésta se encontraba.
 
-**IMPORTANTE**
+3.	Construimos el circuito equivalente utilizando la tensión de Thevenin y la resistencia de Thevenin en serie y procedemos a conectar la resistencia de carga entre los puntos de conexión abiertos.
 
- * Para suprimir una fuente de voltaje hay que reemplazarla con un cortocircuito.
- 
- * Para suprimir una fuente de corriente hay que reemplazarla con un circuito abierto.
-
+4.	Utilizando las reglas de circuitos en serie, se analiza la tensión y corriente de la resistencia de carga.
 
 ## 4. DIAGRAMAS
 

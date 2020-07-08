@@ -114,7 +114,7 @@ VALORES DEL CIRCUITO EQUIVALENTE DE THÉVENIN
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
-| 248 Ω | 298.86 Ω |
+| 299 Ω | 298.86 Ω |
 
 COMPROBACIÓN DEL TEOREMA DE THÉVENIN 
 
@@ -146,29 +146,78 @@ COMPROBACIÓN DEL TEOREMA DE THÉVENIN
 |----------|------|
 |  2.77 mA| 2.79 mA  |
 
-- **CÁLCULO DEL ERROR DEL VOLTAJE DE THÉVENIN*
+- **CÁLCULO DEL ERROR DEL VOLTAJE DE THÉVENIN**
 
-Corriente total calculado= 0.0255 A
+Voltaje calculado= 3.47 V
 
-Corriente total medido= 0.0255 A
+Voltaje medido= 3.63 V
 
-%error=((Valor teórico-Valor medido)/Valor teórico)* 100
+%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
 
-%error=((0.0255 A - 0.0255 A)/ 0.0255 A)* 100
+%error=((3.47 V - 3.63 V)/ 3.47 )* 100
 
-%error= 0 % 
+%error= 0.046 % 
 
-- **CÁLCULO DEL ERROR DEL VOLTAJE**
 
-Voltaje total calculado= 0.952 V
+- **CÁLCULO DEL ERROR DE LA RESISTENCIA DE THÉVENIN**
 
-Voltaje medido= 0.94 V
+Resistencia calculada= 299 Ω 
 
-%error=((Valor teórico-Valor medido)/Valor teórico)* 100
+Resistencia medida= 298.86 Ω 
 
-%error=((0.952 V - 0.94 V)/ 0.952 )* 100
+%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
 
-%error= 0.0126 % 
+%error=(( 299 Ω - 298.86 Ω )/ 299 Ω )* 100
+
+%error= 0.047 % 
+
+- **CÁLCULO DEL ERROR DEL VOLTAJE EN R5 EN EL CIRCUITO ORIGINAL**
+
+Voltaje calculado= 2.89 V
+
+Voltaje medido= 2.67 V
+
+%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
+
+%error=((2.89 V - 2.67 V)/ 2.89 )* 100
+
+%error= 0.076 % 
+
+- **CÁLCULO DEL ERROR DE LA CORRIENTE EN R5 EN EL CIRCUITO ORIGINAL**
+
+Corriente calculado= 2.89 mA
+
+Corriente medido= 2.67 mA
+
+%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
+
+%error=((2.89 V - 2.67 V)/ 2.89 )* 100
+
+%error= 0.076 % 
+
+- **CÁLCULO DEL ERROR DEL VOLTAJE EN R5 EN EL CIRCUITO EQUIVALENTE DE THÉVENIN**
+
+Voltaje calculado= 2.77 V
+
+Voltaje medido= 2.79 V
+
+%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
+
+%error=((2.77 V - 2.79 V)/ 2.77 )* 100
+
+%error= 0.72 % 
+
+- **CÁLCULO DEL ERROR DE LA CORRIENTE EN R5 EN EL CIRCUITO EQUIVALENTE DE THÉVENIN**
+
+Corriente calculado= 2.77 mA
+
+Corriente medido= 2.79 mA
+
+%error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
+
+%error=((2.77 V - 2.79 V)/ 2.77 )* 100
+
+%error= 0.72 % 
 
 Como podemos observar los valores calculados (Ix y Va) son casi identicos a mis valores simulados mediante del Tinkercad, Se esto debido a que mi porcentaje de error es casi nulo la cual establece que los datos no se differencian en mucho.
 

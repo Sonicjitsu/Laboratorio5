@@ -93,43 +93,49 @@ Para complementar la correcta cuantificacion de valores calculados y valores med
 
 **ANÁLISIS DE RESULTADOS Y CÁLCULO DEL ERROR**
 
-MEDICIÓN DE VOLTAJE APLICANDO SUPERPOSICIÓN
+VALORES DEL CIRCUITO EQUIVALENTE DE THÉVENIN
 
-* **VOLTAJE TOTAL (VA)**
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-| 0.952 V | 0.94 V |
-
-* **VOLTAJE (VA) CUANDO V2=0**
+* **VTH (V)**
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
-| 7.48 V | 7.47 V |
+| 3.47 V | 3.63 V |
 
-* **VOLTAJE (VA) CUANDO V1=0**
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-| -6.53 V | -6.53 V |
-
-* **CORRIENTE TOTAL (Ix)**
+* **RTH Ω**
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
-| 0.0255 A | 0.0255 A |
+| 248 Ω | 298.86 Ω |
 
-* **CORRIENTE (Ix) CUANDO V2=0**
+COMPROBACIÓN DEL TEOREMA DE THÉVENIN 
 
-| CALCULADO | MEDIDO  | 
-|----------|------|
-|  ∞  | 0 A |
+ * **CIRCUITO ORIGINAL **
 
-* **CORRIENTE (Ix) CUANDO V1=0**
+* VOLTAJE (V)
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
-| -0.0255 A | -0.0255 A |
+| 2.89 V | 2.67 V |
+
+* CORRIENTE (mA)
+
+| CALCULADO | MEDIDO  | 
+|----------|------|
+|  2.89 mA | 2.67 mA |
+
+* **CIRCUITO EQUIVALENTE DE THÉVENIN**
+
+* VOLTAJE (V)
+
+| CALCULADO | MEDIDO  | 
+|----------|------|
+|  2.77 V | 2.79 V |
+
+* CORRIENTE (mA)
+
+| CALCULADO | MEDIDO  | 
+|----------|------|
+|  2.77 mA| 2.79 mA  |
 
 - **CÁLCULO DEL ERROR DE LA CORRIENTE**
 

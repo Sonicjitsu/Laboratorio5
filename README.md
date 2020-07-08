@@ -5,11 +5,11 @@ TEMA: TEOREMA DE THÉVENIN
 
 **1,1.- GENERAL** 
 
-* Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
+* Analizar experimentalmente el Teorema de Thévenin en un circuito resistivo.
 
 **1,2.-ESPECÍFICOS**
 
-* Analizar un circuito de corriente directa mediante la aplicación del Teorema de Thevenin .
+*  Comprobar que es un circuito de corriente directa mediante la aplicación del Teorema de Thevenin .
 
 * Verificar la manera de medir la resistencia y voltaje Thevenin de un circuito.
 

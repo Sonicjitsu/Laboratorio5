@@ -146,7 +146,7 @@ COMPROBACIÓN DEL TEOREMA DE THÉVENIN
 |----------|------|
 |  2.77 mA| 2.79 mA  |
 
-- **CÁLCULO DEL ERROR DE LA CORRIENTE**
+- **CÁLCULO DEL ERROR DEL VOLTAJE DE THÉVENIN*
 
 Corriente total calculado= 0.0255 A
 
@@ -195,11 +195,9 @@ https://trello.com/b/UU1g7qMS/cronograma
 
 ## 13. BIBLIOGRAFÍA
 
-* Carakenio73. (2019, Noviembre 8). Recuperado de: https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
+* carakenio73. (10 de Noviembre de 2019). dademuchconnection. Obtenido de https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/
 
-* Willi, M. (s.f.). KHAN ACADEMY. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
-
-*Teorema de superposición para solución de circuitos eléctricos. (2012, Julio 18). Recuperado de: https://www.ecured.cu/Teorema_de_superposici%C3%B3n_para_soluci%C3%B3n_de_circuitos_el%C3%A9ctricos
+* XNOMIND. (07 de Noviembre de 2019). Teorema. Obtenido de https://www.teorema.top/teorema-de-thevenin/#Pasos_para_aplicar_el_teorema_de_Thevenin
 
 
 

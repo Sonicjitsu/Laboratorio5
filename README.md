@@ -18,7 +18,7 @@ TEMA: TEOREMA DE THÉVENIN
 
 ## 2. PLANTEAMIENTO DEL PROBLEMA
 
-Este proyecto consistió en la implementación de un circuito mixto lineal, en un programa online denominado Tinkercad con la finalidad de experimentarel análisis mediante el Teorema de Superposición. Se crea el circuito utilizando resistencias en serie y paralelo conetadas a fuentes variables, la cuál es la característica principal para poder utilizar el Teorema de superposición como un método de solución factible.
+Este proyecto consistió en la implementación de un circuito mixto lineal, en un programa online denominado Tinkercad con la finalidad de experimentarel análisis mediante el Teorema de Thévenin. Se crea el circuito utilizando resistencias en serie y paralelo conectadas a fuentes variables, la cuál es la característica principal para poder utilizar el Teorema de superposición como un método de solución factible.
 
 
 ## 3. MARCO TEÓRICO 
@@ -189,9 +189,9 @@ Para terminar, sugerimos acordarse para calcular el voltaje de una region se le 
 
 ## 12. CRONOGRAMA
 
-![](https://github.com/BriandaLema/Laboratorio4/blob/master/img/Cronograma4.png)
+![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/CRONOGRAMA%205.png)
 
-https://trello.com/b/CRvRVdmQ/cronograma
+https://trello.com/b/UU1g7qMS/cronograma
 
 ## 13. BIBLIOGRAFÍA
 
@@ -204,7 +204,7 @@ https://trello.com/b/CRvRVdmQ/cronograma
 
 
 ## 14.- ANEXOS
-https://github.com/BriandaLema/Laboratorio4/blob/master/Anexos/ANEXOS4.pdf
+https://github.com/BriandaLema/Laboratorio5/blob/master/Anexos/ANEXOS.pdf
 
 
 

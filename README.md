@@ -148,15 +148,15 @@ COMPROBACIÓN DEL TEOREMA DE THÉVENIN
 
 - **CÁLCULO DEL ERROR DEL VOLTAJE DE THÉVENIN**
 
-Voltaje calculado= 3.47 V
+Voltaje calculado= 5.06 V
 
-Voltaje medido= 3.63 V
+Voltaje medido= 5.0556 V
 
 %error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
 
-%error=((3.47 V - 3.63 V)/ 3.47 )* 100
+%error=((5.06 V - 5.0556 V)/ 5.06 V )* 100
 
-%error= 4.61 % 
+%error= 0.087 % 
 
 
 - **CÁLCULO DEL ERROR DE LA RESISTENCIA DE THÉVENIN**
@@ -173,51 +173,51 @@ Resistencia medida= 298.86 Ω
 
 - **CÁLCULO DEL ERROR DEL VOLTAJE EN R5 EN EL CIRCUITO ORIGINAL**
 
-Voltaje calculado= 2.89 V
+Voltaje calculado= 4.22 V
 
-Voltaje medido= 2.67 V
+Voltaje medido= 3.9 V
 
 %error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
 
-%error=((2.89 V - 2.67 V)/ 2.89 )* 100
+%error=((4.22 V - 3.9 V)/ 4.22 V)* 100
 
-%error= 7.61 % 
+%error= 7.58 % 
 
 - **CÁLCULO DEL ERROR DE LA CORRIENTE EN R5 EN EL CIRCUITO ORIGINAL**
 
-Corriente calculado= 2.89 mA
+Corriente calculado= 4.22 mA
 
-Corriente medido= 2.67 mA
+Corriente medido= 3.9 mA
 
 %error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
 
-%error=((2.89 V - 2.67 V)/ 2.89 )* 100
+%error=((4.22 mA - 3.9 mA)/ 4.22 mA)* 100
 
-%error= 7.61 % 
+%error= 7.58 % 
 
 - **CÁLCULO DEL ERROR DEL VOLTAJE EN R5 EN EL CIRCUITO EQUIVALENTE DE THÉVENIN**
 
-Voltaje calculado= 2.77 V
+Voltaje calculado= 3.84 V
 
-Voltaje medido= 2.79 V
+Voltaje medido= 3.89 V
 
 %error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
 
-%error=((2.77 V - 2.79 V)/ 2.77 )* 100
+%error=(|(3.84 V - 3.89 V)|/ 3.84 V )* 100
 
-%error= 0.72 % 
+%error= 1.30 % 
 
 - **CÁLCULO DEL ERROR DE LA CORRIENTE EN R5 EN EL CIRCUITO EQUIVALENTE DE THÉVENIN**
 
-Corriente calculado= 2.77 mA
+Voltaje calculado= 3.84 mA
 
-Corriente medido= 2.79 mA
+Voltaje medido= 3.89 mA
 
 %error=(|(Valor teórico-Valor medido)|/Valor teórico)* 100
 
-%error=((2.77 V - 2.79 V)/ 2.77 )* 100
+%error=(|(3.84 mA - 3.89 mA)|/ 3.84 mA )* 100
 
-%error= 0.72 % 
+%error= 1.30 % 
 
 Por medio de este laboratorio hemos comprobado de una forma tanto teórica como práctica la funcionalidad del teorema de Thévenin el cual es de grna utilidad ya que nos ayuda a reducir un circuito complejo en uno mucho más sencillo para medir corriente o voltaje en algún elemento del circuitos. 
 

@@ -48,12 +48,12 @@ Para aplicar el teorema correctamente, se deben realizar estos pasos:
 
 Se simula un circuito lineal, es un circuito mixto con cuatro resistencias en paralelo y corriente conectadas a dos fuentes de voltaje de corriente directa.
 
-![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/Diagrama5.png)
+![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/Circuitoo1.jpg)
 
 
 Comprobación del Teorema de Thévenin
 
-![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/Comprobaci%C3%B3n%20del%20teorema%20de%20Th%C3%A9venin.png)
+![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/circuito%202.jpg)
 
 
 
@@ -253,7 +253,7 @@ https://trello.com/b/UU1g7qMS/cronograma
 
 
 ## 14.- ANEXOS
-https://github.com/BriandaLema/Laboratorio5/blob/master/Anexos/ANEXOS.pdf
+https://github.com/BriandaLema/Laboratorio5/blob/master/Anexos/ANEXOS%20LABORATORIO%205.pdf
 
 
 

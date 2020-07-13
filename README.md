@@ -91,14 +91,7 @@ El mismo programa nos guía y asesora acerca de lo que realizamos, por lo cual l
 
 ## 8. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
-Fundamentalmente los prerrequisitos que requiere este laboratorio sería: un dispositivo tegnológico (sea un teléfono, una pc, un tableta, entre otras); pues trabajamos en un simulador online, nuestro segundo requisito es acceso a internet y finalmente tener conocimientos básicos sobre las leyes aplicadas, los componentes, elementos y variables que se utiliza para la creación del circuito.
-
-
-## 9.APORTACIONES
-
-Para complementar la correcta cuantificacion de valores calculados y valores medidos se baso en videos de la plataforma online YouTube, y se implemento el circuito en el simulador multisim para confirmar los valores.
-
-## 10. CONCLUSIONES
+Fundamentalmente los prerrequisitos que requiere este laboratorio sería: un dispositivo tegnológico (sea un teléfono, una pc, un tableta, entre otras); pues trabajamos en un simulador online, nuestro segundo requisito es acceso a internet y finalmente tener conocimientos básicos sobre las leyes aplicadas, los componentes, elementos y variables que se utiliza para la creación y el siguiente análisis del circuito.
 
 **ANÁLISIS DE RESULTADOS Y CÁLCULO DEL ERROR**
 
@@ -218,6 +211,13 @@ Voltaje medido= 3.89 mA
 %error=(|(3.84 mA - 3.89 mA)|/ 3.84 mA )* 100
 
 %error= 1.30 % 
+
+
+## 9.APORTACIONES
+
+Para complementar la correcta cuantificacion de valores calculados y valores medidos se baso en videos de la plataforma online YouTube, y se implemento el circuito en el simulador multisim para confirmar los valores.
+
+## 10. CONCLUSIONES
 
 Por medio de este laboratorio hemos comprobado de una forma tanto teórica como práctica la funcionalidad del teorema de Thévenin el cual es de grna utilidad ya que nos ayuda a reducir un circuito complejo en uno mucho más sencillo para medir corriente o voltaje en algún elemento del circuitos. 
 

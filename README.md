@@ -108,7 +108,7 @@ VALORES DEL CIRCUITO EQUIVALENTE DE THÉVENIN
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
-| 3.47 V | 3.63 V |
+| 5.06 V | 5.0556 V |
 
 * **RTH Ω**
 
@@ -124,13 +124,13 @@ COMPROBACIÓN DEL TEOREMA DE THÉVENIN
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
-| 2.89 V | 2.67 V |
+| 4.22 V | 3.9 V |
 
 * CORRIENTE (mA)
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
-|  2.89 mA | 2.67 mA |
+|  4.22 mA | 3.9 mA |
 
 * **CIRCUITO EQUIVALENTE DE THÉVENIN**
 
@@ -138,13 +138,13 @@ COMPROBACIÓN DEL TEOREMA DE THÉVENIN
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
-|  2.77 V | 2.79 V |
+|  3.84 V | 3.89 V |
 
 * CORRIENTE (mA)
 
 | CALCULADO | MEDIDO  | 
 |----------|------|
-|  2.77 mA| 2.79 mA  |
+|  3.84 mA| 3.89 mA  |
 
 - **CÁLCULO DEL ERROR DEL VOLTAJE DE THÉVENIN**
 
